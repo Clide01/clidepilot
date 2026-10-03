@@ -1,0 +1,47 @@
+{
+"leveling_1_700": 30,
+"leveling_700_1500": 40,
+"leveling_1500_max": 45,
+"leveling_1_max": 100000,
+
+"sword_cdk": 100,
+"sword_ttk": 100,
+"sword_scythe": 80,
+"sword_anchor": 80,
+
+"fs_godhuman": 100,
+"fs_electric_claw": 30,
+"fs_dragon_talon": 30,
+"fs_superhuman": 30,
+"fs_dragon_breath": 30,
+
+"gun_soul_guitar": 100,
+"misc_1": 25,
+"misc_2": 30,
+"misc_3": 30,
+
+"race_human": 30,
+"race_angel": 30,
+"race_shark": 30,
+"race_mink": 30,
+"race_ghoul": 50,
+"race_cyborg": 60,
+
+"awaken_1": 40,
+"awaken_2": 50,
+"awaken_3": 60,
+"awaken_1_4": 100,
+
+"dojo_tier1": 40,
+"dojo_tier2": 30,
+"dojo_tier3": 50,
+"dojo_orb": 50,
+
+"pre_hood": 40,
+"pre_skull": 30,
+"pre_spear": 90,
+"pre_cannon": 90,
+
+"mastery": 20,
+"haki": 20
+}
